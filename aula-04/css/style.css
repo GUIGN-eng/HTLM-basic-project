@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Mea+Culpa&display=swap');
+    
+body{
+height: 100vh;
+    background-color: #006400;
+    
+}
+#first{
+    color: green;
+    background-color: #000000;
+    font-family: "Bruno Ace SC", sans-serif;
+}
+
+.nova{
+    font-family: "Mea Culpa", cursive;
+    font-size: 1.5em;
+}
+
+span{
+    color: #06ff06ff;
+}
+
+
+.fora{
+    font-size: 2em;
+}
+
+div{
+    font-size: 34px;
+    font-family: "Bruno Ace SC", sans-serif;
+    color: green;
+    overflow-y: scroll;
+    height: 250px;
+    background-color: black;
+    background-image: url(../img/Kawa.webp);
+    background-repeat: no-repeat;
+    background-position: r 150px;
+    background-size:250px
+}
+
+h2{
+    font-family: "Bruno Ace SC", sans-serif;
+    color: green;
+    background-color: #000000;
+}
