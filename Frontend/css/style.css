@@ -1,0 +1,25 @@
+table, th, td{
+    width: 60%;
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;/*collapse, separette*/
+    padding: 5px;
+}
+.teste_linha{
+    background-color: lightgreen;
+}
+.coluna2{
+    background-color: aqua;
+}
+thead{
+    background-color: blue;
+    color: white;
+}
+tbody tr:nth-child(even){
+    background-color: rgb(132, 132, 132);
+}
+tfoot{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
